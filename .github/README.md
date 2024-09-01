@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᗞ ⋏ ʀ к 𝒚 ㄨ Μ υ ꜱ ɪ с 」──
+    ──「 𝐍ᴏʙɪᴛꫝ вᴏᴛ 𝐌ꫝкєя 🚬™ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://graph.org/file/270247243a8d9376661e0.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://graph.org/file/0a51a4ab5ac6e11669e76.jpg">
 </p>
 
 <h3 align="center">
