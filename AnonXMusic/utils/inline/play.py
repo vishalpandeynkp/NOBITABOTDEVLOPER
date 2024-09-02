@@ -64,7 +64,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="𝐍ᴏʙɪᴛꫝ 📢", url=f"https://t.me/ll_NOBITA_BOT_DEVLOPER_ll"
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/nobita_supportt"
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/nobita_support"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
